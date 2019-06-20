@@ -83,3 +83,4 @@ pitch.addEventListener('change', e=> (pitchValue.textContent = pitch.value))
 
 //voice select change
 voiceSelect.addEventListener('change', e=> speak());
+//git initial commit
